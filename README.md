@@ -1,3 +1,4 @@
+<img src="https://miro.medium.com/proxy/1*TK4sF5ewYTHLzEkib7Ndrw.jpeg">
 # flutter_stock
 
 A new Flutter project.
